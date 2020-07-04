@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/burak-selvi-portfolio/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/burak-selvi-portfolio/static/js/main.9867d9fa.chunk.js",
-    "main.js.map": "/burak-selvi-portfolio/static/js/main.9867d9fa.chunk.js.map",
+    "main.js": "/burak-selvi-portfolio/static/js/main.aa708970.chunk.js",
+    "main.js.map": "/burak-selvi-portfolio/static/js/main.aa708970.chunk.js.map",
     "runtime-main.js": "/burak-selvi-portfolio/static/js/runtime-main.c6070d9d.js",
     "runtime-main.js.map": "/burak-selvi-portfolio/static/js/runtime-main.c6070d9d.js.map",
     "static/js/2.2eae3e20.chunk.js": "/burak-selvi-portfolio/static/js/2.2eae3e20.chunk.js",
     "static/js/2.2eae3e20.chunk.js.map": "/burak-selvi-portfolio/static/js/2.2eae3e20.chunk.js.map",
     "index.html": "/burak-selvi-portfolio/index.html",
-    "precache-manifest.f98be6c93775f9b5496141abaeadc02b.js": "/burak-selvi-portfolio/precache-manifest.f98be6c93775f9b5496141abaeadc02b.js",
+    "precache-manifest.af9136ec3154fd25b5fef22640056a34.js": "/burak-selvi-portfolio/precache-manifest.af9136ec3154fd25b5fef22640056a34.js",
     "service-worker.js": "/burak-selvi-portfolio/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/burak-selvi-portfolio/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.2eae3e20.chunk.js.LICENSE.txt": "/burak-selvi-portfolio/static/js/2.2eae3e20.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c6070d9d.js",
     "static/js/2.2eae3e20.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.9867d9fa.chunk.js"
+    "static/js/main.aa708970.chunk.js"
   ]
 }
