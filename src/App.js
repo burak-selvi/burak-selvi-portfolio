@@ -1,12 +1,14 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import Routes from "./Routes";
-const { PUBLIC_URL } = process.env;
+import Layout from "./components/Layout";
 
 function App() {
   return (
-    <BrowserRouter basename={PUBLIC_URL}>
-      <Routes />
+    <BrowserRouter>
+      <Layout>
+        <Routes />
+      </Layout>
     </BrowserRouter>
   );
 }
